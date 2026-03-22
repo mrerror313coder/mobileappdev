@@ -1,0 +1,7 @@
+com.example.university-pngs-0 /workspaces/mobileappdev/MyJavaApp/build/generated/res/pngs/debug
+com.example.university-resValues-1 /workspaces/mobileappdev/MyJavaApp/build/generated/res/resValues/debug
+com.example.university-packageDebugResources-2 /workspaces/mobileappdev/MyJavaApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.university-packageDebugResources-3 /workspaces/mobileappdev/MyJavaApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.university-merged_res-4 /workspaces/mobileappdev/MyJavaApp/build/intermediates/merged_res/debug
+com.example.university-debug-5 /workspaces/mobileappdev/MyJavaApp/src/debug/res
+com.example.university-main-6 /workspaces/mobileappdev/MyJavaApp/src/main/res
